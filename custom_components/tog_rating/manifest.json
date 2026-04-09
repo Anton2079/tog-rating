@@ -1,7 +1,7 @@
 {
   "domain": "tog_rating",
   "name": "TOG Rating",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "documentation": "https://github.com/Anton2079/tog-rating",
   "issue_tracker": "https://github.com/Anton2079/tog-rating/issues",
   "codeowners": [
